@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "78124983171",
+    "project_id": "birla-hil-c1b8d",
+    "storage_bucket": "birla-hil-c1b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78124983171:android:f3f44e8e9d9c5d75670cb6",
+        "android_client_info": {
+          "package_name": "com.mobiquest.birlasampann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78124983171-u7khu9lim7fqbsljhgpp2uua4la5sl5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx_gKwbrdZX_bO1ym1ed6YQvXbwET5YI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78124983171-u7khu9lim7fqbsljhgpp2uua4la5sl5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "78124983171-9mlsiic56bi25lpdiogqe9t72dj574pa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobiquest.ckbirla"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
